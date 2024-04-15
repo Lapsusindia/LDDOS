@@ -216,10 +216,11 @@ func main() {
     fmt.Println("  | Jai Shree Ram |  =====================================================  | Jai Shree Ram |")
     fmt.Println("  | Jai Shree Ram |  | ================================================= |  | Jai Shree Ram |")
     fmt.Println("  | Jai Shree Ram |  | |                                               | |  | Jai Shree Ram |")
-    fmt.Println("  | Jai Shree Ram |  | |     █████████████████████████████████████     | |  | Jai Shree Ram |")
-    fmt.Println("  | Jai Shree Ram |  | |     █▄─██─▄█▄─▄▄▀█▄─▄▄▀█▄─▄▄▀█─▄▄─█─▄▄▄▄█     | |  | Jai Shree Ram |")
-    fmt.Println("  | Jai Shree Ram |  | |     ██─██─███─▄─▄██─██─██─██─█─██─█▄▄▄▄─█     | |  | Jai Shree Ram |")
-    fmt.Println("  | Jai Shree Ram |  | |     ▀▀▄▄▄▄▀▀▄▄▀▄▄▀▄▄▄▄▀▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▄▄▀     | |  | Jai Shree Ram |")
+    fmt.Println("  | Jai Shree Ram |  | |       RRRR   OOO  OOO  TTTTT
+  R   R O   O O   O   T  
+  RRRR  O   O O   O   T  
+  R  R   OOO   OOO    T  
+     | |  | Jai Shree Ram |")
     fmt.Println("  | Jai Shree Ram |  | |                                               | |  | Jai Shree Ram |")
     fmt.Println("  | Jai Shree Ram |  | ================================================= |  | Jai Shree Ram |")
     fmt.Println("  | Jai Shree Ram |  =====================================================  | Jai Shree Ram |")
